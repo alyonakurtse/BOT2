@@ -1,0 +1,1 @@
+TOKEN = '123' # Token for your telegram bot
